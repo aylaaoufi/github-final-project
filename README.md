@@ -6,4 +6,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+## License
 [License](https://github.com/aylaaoufi/github-final-project/blob/master/LICENSE)
