@@ -8,3 +8,5 @@ Output
    simple interest = p*t*r
 ## License
 [License](https://github.com/aylaaoufi/github-final-project/blob/master/LICENSE)
+### by
+[aylaaoufi](https://github.com/aylaaoufi)
